@@ -20,7 +20,8 @@ Logotipo:
 >>> Si diseña un logotipo para su producto en la práctica 3 pongalo aqui, a un tamaño adecuado. Si diseña un slogan añadalo aquí
 
 Miembros:
- * :bust_in_silhouette:  AA     :octocat:     
+DIU3-Duros
+ * :bust_in_silhouette:  https://github.com/pablo200323     :octocat:     
  * :bust_in_silhouette:  BB     :octocat:
 
 >>> Los equipos son de 2 personas. Identifícaros con el nombre del Grupo y los enlaces a los perfiles de GitHub de cada integrante
@@ -43,6 +44,8 @@ Miembros:
 ### 1.a User Reseach Plan
 ![Método UX](img/Competitive.png) 
 -----
+
+El user research plan trata de analizar, investigar y documentar varios grupos de usuarios en cualquier etapa del desarrollo del diseño del sistema para obtener información acerca de estos, como el porque piensan y actuan de una manera concreta, recopilando opiniones, características o motivaciones del usuario siendo lo mas objetivo posible, o investigar lo que hacen para probar si dichas suposiciones eran ciertas,  determinar que es mas relevante para los usuarios e intentar abodar las necesidades del mayor numero de usuarios posibles. Dicha información se recopila en una plantilla, separando los tipos de usuario para una mayor estructuración. Todo esto será util para poder anticiparse a algunos problemas de usabilidad que puedan existir en nuestro diseño. Aún que el grupo y la varietad del tipo de usuario tiene que ser amplio tocando perfiles lo mas distinto posibles(jovenes, adultos, ancianos, etc..) se deberá hacer mas incapie y una evaluación mas exhaustiva en las personas mas relevantes y con mas prioridad para el diseño. Por ejemplo: si la mayor parte del publico objetivo va a ser ancianaos se debera enfatizar mas en el análisis de dicho grupo.  
 
 >>> Describe el plan en tu User Research (cómo se plantea la selección de usuarios). Borra esta línea cuando lo tengas.  
 
