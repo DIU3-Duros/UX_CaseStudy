@@ -24,12 +24,8 @@ DIU3-Duros
  * :bust_in_silhouette:  Pablo xxxx xxxx     :octocat: https://github.com/pablo200323
  * :bust_in_silhouette:  Jose Dimas Sánchez Casas     :octocat: https://github.com/josedimas23 
 
->>> Los equipos son de 2 personas. Identifícaros con el nombre del Grupo y los enlaces a los perfiles de GitHub de cada integrante
 
 ----- 
-
-
->>> Este documento es el esqueleto del Case Study que explica el proceso de desarrollo de las 5 prácticas de DIU. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online. Elimine este tipo de texto / comentarios desde la práctica 1 conforme proceda a cada paso
 
 
 # Proceso de Diseño 
@@ -46,6 +42,12 @@ DIU3-Duros
 -----
 
 Nuestro proyecto trata de analizar, investigar y documentar varios grupos de usuarios para obtener información sobre sus comportamientos y pensamientos en relación con el ocio y el comercio sostenible. Queremos identificar cómo estos usuarios interactúan con nuestro diseño y qué necesidades tienen. Principalmente, está dirigido a personas comprometidas con prácticas sostenibles, consumidores responsables y familias que buscan opciones de ocio educativo para sus hijos.
+
+ - objetivos (objetivos en la web+KPIs)
+ - metodos/criterios info cualitativa y cuantitativa (etnografia, herramientas, encuestas y  
+   (tareas/indicacion/preguntas a los user))
+ - documentos relevantes (enlaces)
+
 
 >>> Describe el plan en tu User Research (cómo se plantea la selección de usuarios). Borra esta línea cuando lo tengas.  
 
