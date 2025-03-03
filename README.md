@@ -5,7 +5,7 @@ Prácticas Diseño Interfaces de Usuario (Tema: El ocio y comercio sostenible )
 
 Grupo: DIU3_Duros.  Curso: 2024/25 
 
-Actualizado: xx/xx/2025
+Actualizado: 03/03/2025
 
 Proyecto: 
 
@@ -21,8 +21,8 @@ Logotipo:
 
 Miembros:
 DIU3-Duros
- * :bust_in_silhouette:  https://github.com/pablo200323     :octocat:     
- * :bust_in_silhouette:  https://github.com/josedimas23     :octocat:
+ * :bust_in_silhouette:  Pablo xxxx xxxx     :octocat: https://github.com/pablo200323
+ * :bust_in_silhouette:  Jose Dimas Sánchez Casas     :octocat: https://github.com/josedimas23 
 
 >>> Los equipos son de 2 personas. Identifícaros con el nombre del Grupo y los enlaces a los perfiles de GitHub de cada integrante
 
