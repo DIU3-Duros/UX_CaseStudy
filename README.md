@@ -21,7 +21,7 @@ Logotipo:
 
 Miembros:
 DIU3-Duros
- * :bust_in_silhouette:  Pablo xxxx xxxx     :octocat: https://github.com/pablo200323
+ * :bust_in_silhouette:  Pablo Rodríguez Cecilia     :octocat: https://github.com/pablo200323
  * :bust_in_silhouette:  Jose Dimas Sánchez Casas     :octocat: https://github.com/josedimas23 
 
 
