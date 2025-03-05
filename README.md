@@ -43,7 +43,17 @@ DIU3-Duros
 
 Nuestro proyecto trata de analizar, investigar y documentar varios grupos de usuarios para obtener información sobre sus comportamientos y pensamientos en relación con el ocio y el comercio sostenible. Queremos identificar cómo estos usuarios interactúan con nuestro diseño y qué necesidades tienen. Principalmente, está dirigido a personas comprometidas con prácticas sostenibles, consumidores responsables y familias que buscan opciones de ocio educativo para sus hijos.
 
- - objetivos (objetivos en la web+KPIs)
+### Objetivos (objetivos en la web+KPIs)
+
+
+| Objetivos | KPI's|
+|----------|-------|
+|Aumentar la visibilidad de las<br> tiendas que colaboran<br> con nuestra causa|   g   |
+|Conocer el numero de personas<br> interesadas en colaborar con el proyecto|      |
+|Incrementar el nivel de concienciación<br> medioambiental a la gente<br> que entra a la pagina web|   g   |
+|Medir el nivel de experiencia de los<br> usuarios mientras navegan<br> por la pagina web|   g   |
+
+
  - metodos/criterios info cualitativa y cuantitativa (etnografia, herramientas, encuestas y  
    (tareas/indicacion/preguntas a los user))
  - documentos relevantes (enlaces)
