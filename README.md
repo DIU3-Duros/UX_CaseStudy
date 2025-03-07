@@ -67,7 +67,9 @@ A continuacion definiremos los medodos par obtenerlos:
    - Analisis de metricas: Se mediran distintos parametros de la pagina web para observar como interaccionan los usuarios con ella, como la cantidad y el tipo de interacciones de los usuarios o el tiempo promedio que pasa un usuario en una pagina. 
 
 #### Información cualitativa:
-   - Analisis etnografico: 
+   - Analisis etnografico: Nos sirve para observar como los usuarios interactuan y que es lo que buscan en la web para comprender sus comporrtamientos e intereses.
+   - Entrevistas: Permiten obtener información mas concreta sobre las experiencias de los usuarios en la web, mediante preguntas para recopilar datos no numéricos, sino, mas de opiniones.
+   - Pruebas de usabilidad: Sirven para evaluar la facilidad de uso
 
 (etnografia, herramientas, encuestas y  
    (tareas/indicacion/preguntas a los user))
