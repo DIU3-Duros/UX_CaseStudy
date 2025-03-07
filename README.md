@@ -41,22 +41,23 @@ DIU3-Duros
 ![Método UX](img/Competitive.png) 
 -----
 
-Nuestro proyecto trata de analizar, investigar y documentar varios grupos de usuarios para obtener información sobre sus comportamientos y pensamientos en relación con el ocio y el comercio sostenible. Queremos identificar cómo estos usuarios interactúan con nuestro diseño y qué necesidades tienen. Principalmente, está dirigido a personas comprometidas con prácticas sostenibles, consumidores responsables y familias que buscan opciones de ocio educativo para sus hijos.
+Nuestro proyecto se centra en el análisis del ocio y el comercio sostenible, centrado en el reciclaje y la artesanía. Veremos cómo las personas interactúan con iniciativas que fomentan la reutilización de materiales, la producción artesanal y el consumo responsable, identificando sus motivaciones, barreras y expectativas. Para ello, investigaremos distintos tipos de usuarios, como consumidores comprometidos con la sostenibilidad, amantes de la moday el arte o compradores económicos, consiguiendo así mejorar la experiencia del usuario, impulsarlos al uso de prácticas sostenibles y generar concienciación.
 
-### Objetivos (objetivos en la web+KPIs)
+Para desarrollar nuestro estudio, hemos decidido de entre la opciones centrarnos en la moda de segunda mano. Consideramos que esta opción nos permetirá evaluar su experiencia, detectar oportunidades de mejora y optimizar la accesibilidad y usabilidad de este tipo de plataformas.
+
+### Objetivos (objetivos en la web + KPIs)
 
 
 | Objetivos | KPI's|
 |----------|-------|
-|Aumentar la visibilidad de las<br> tiendas que colaboran<br> con nuestra causa|   g   |
-|Conocer el numero de personas<br> interesadas en colaborar con el proyecto|      |
-|Incrementar el nivel de concienciación<br> medioambiental a la gente<br> que entra a la pagina web|   g   |
-|Medir el nivel de experiencia de los<br> usuarios mientras navegan<br> por la pagina web|   g   |
+|Aumentar la visibilidad de las<br> tiendas que colaboran<br> con nuestra causa|   - Número de visitas a la página de tiendas colaboradoras<br> - Aumento de interacciones en redes sociales relacionadas con las tiendas colaboradoras   |
+|Conocer el numero de personas<br> interesadas en colaborar con el proyecto|   - Número de suscripciones a la newsletter<br> - Participación en encuestas o acciones de la empresa   |
+|Incrementar el nivel de concienciación<br> medioambiental a la gente<br> que entra a la pagina web|   - Porcentaje de usuarios que visitan la sección de sostenibilidad/medioambiente<br> - Tiempo promedio en las páginas relacionadas con la sostenibilidad   |
+|Medir el nivel de experiencia de los<br> usuarios mientras navegan<br> por la pagina web|   -Tasa de rebote en la página web??????<br> - Tiempo promedio de permanencia en la página<br> - Puntuación en encuestas de satisfacción de usuarios<br> - Tasa de clics en enlaces de navegación dentro de la web   |
 
 
  - metodos/criterios info cualitativa y cuantitativa (etnografia, herramientas, encuestas y  
    (tareas/indicacion/preguntas a los user))
- - documentos relevantes (enlaces)
 
 
 >>> Describe el plan en tu User Research (cómo se plantea la selección de usuarios). Borra esta línea cuando lo tengas.  
