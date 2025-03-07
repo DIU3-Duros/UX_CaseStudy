@@ -60,27 +60,30 @@ Para desarrollar nuestro estudio, hemos decidido de entre la opciones centrarnos
 
 A continuacion definiremos los medodos par obtenerlos:
 
+#### Información cualitativa:
+
+   - Analisis etnografico: Nos sirve para observar como los usuarios interactuan y que es lo que buscan en la web para comprender sus comporrtamientos e intereses.
+   - Entrevistas: Permiten obtener información mas concreta sobre las experiencias de los usuarios en la web, mediante preguntas para recopilar datos no numéricos, como opiniones, motivaciones, etc...
+   - Pruebas de usabilidad: Sirven para evaluar la facilidad de uso de las funcionalidades de la web y obtener un feedback de ellas para saber posibles aspectos a mejorar.
+     
 #### Información cuantitativa:
 
    - Encuenta de satisfaccion: Realizaremos encuestas para poder observar el nivel de agrado de los usuarios mientras navegan por la pagina web, buscan un punto sostenible para donar ropa o encontran las tiendas disponibles mas cercanas.
    - Cuestionario: Se recopilara información a cerca de posibles aspectos a mejorar para hacer de la interaccion con la pagina una experencia mas agradable y libiana.
    - Analisis de metricas: Se mediran distintos parametros de la pagina web para observar como interaccionan los usuarios con ella, como la cantidad y el tipo de interacciones de los usuarios o el tiempo promedio que pasa un usuario en una pagina. 
-
-#### Información cualitativa:
-   - Analisis etnografico: Nos sirve para observar como los usuarios interactuan y que es lo que buscan en la web para comprender sus comporrtamientos e intereses.
-   - Entrevistas: Permiten obtener información mas concreta sobre las experiencias de los usuarios en la web, mediante preguntas para recopilar datos no numéricos, sino, mas de opiniones.
-   - Pruebas de usabilidad: Sirven para evaluar la facilidad de uso
-
-(etnografia, herramientas, encuestas y  
-   (tareas/indicacion/preguntas a los user))
-
-
 >>> Describe el plan en tu User Research (cómo se plantea la selección de usuarios). Borra esta línea cuando lo tengas.  
 
 
 ### 1.b Competitive Analysis
 ![Método UX](img/Competitive.png) 
 -----
+Nos hemos decantado "Moda re" porque es to fea.
+Hay otras pag web mas bonicas que son mejore que la otra basura: zara, humana.
+hay cosas que tienen zara y humana que moda -re no tienen.
+
+//Foto de analisis comparando las tres tiendas
+
+Conclusion final.
 
 >>> Describe brevemente características de las aplicaciones que tiene asignadas tu grupo. Decidete por una y explica por qué se ha seleccionado. Borra esta línea cuando lo tengas. 
 
