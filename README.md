@@ -41,22 +41,35 @@ DIU3-Duros
 ![Método UX](img/Competitive.png) 
 -----
 
-Nuestro proyecto se centra en el análisis del ocio y el comercio sostenible, centrado en el reciclaje y la artesanía. Veremos cómo las personas interactúan con iniciativas que fomentan la reutilización de materiales, la producción artesanal y el consumo responsable, identificando sus motivaciones, barreras y expectativas. Para ello, investigaremos distintos tipos de usuarios, como consumidores comprometidos con la sostenibilidad, amantes de la moday el arte o compradores económicos, consiguiendo así mejorar la experiencia del usuario, impulsarlos al uso de prácticas sostenibles y generar concienciación.
+Nuestro proyecto se centra en el análisis del ocio y el comercio sostenible, centrado en el reciclaje y la artesanía. Veremos cómo las personas interactúan con iniciativas que fomentan la reutilización de materiales, la producción artesanal y el consumo responsable, identificando sus motivaciones, barreras y expectativas. Para ello, investigaremos distintos tipos de usuarios, como consumidores comprometidos con la sostenibilidad, amantes de la moda y el arte o compradores económicos, consiguiendo así mejorar la experiencia del usuario, impulsarlos al uso de prácticas sostenibles y generar concienciación.
 
-Para desarrollar nuestro estudio, hemos decidido de entre la opciones centrarnos en la moda de segunda mano. Consideramos que esta opción nos permetirá evaluar su experiencia, detectar oportunidades de mejora y optimizar la accesibilidad y usabilidad de este tipo de plataformas.
+Para desarrollar nuestro estudio, hemos decidido de entre la opciones centrarnos en la moda de segunda mano. Consideramos que esta opción nos permitirá evaluar su experiencia, detectar oportunidades de mejora y optimizar la accesibilidad y usabilidad de este tipo de plataformas.
 
-### Objetivos (objetivos en la web + KPIs)
+### Objetivos generales + KPI's
 
 
 | Objetivos | KPI's|
 |----------|-------|
 |Aumentar la visibilidad de las<br> tiendas que colaboran<br> con nuestra causa|   - Número de visitas a la página de tiendas colaboradoras<br> - Aumento de interacciones en redes sociales relacionadas con las tiendas colaboradoras   |
 |Conocer el numero de personas<br> interesadas en colaborar con el proyecto|   - Número de suscripciones a la newsletter<br> - Participación en encuestas o acciones de la empresa   |
-|Incrementar el nivel de concienciación<br> medioambiental a la gente<br> que entra a la pagina web|   - Porcentaje de usuarios que visitan la sección de sostenibilidad/medioambiente<br> - Tiempo promedio en las páginas relacionadas con la sostenibilidad   |
-|Medir el nivel de experiencia de los<br> usuarios mientras navegan<br> por la pagina web|   -Tasa de rebote en la página web??????<br> - Tiempo promedio de permanencia en la página<br> - Puntuación en encuestas de satisfacción de usuarios<br> - Tasa de clics en enlaces de navegación dentro de la web   |
+|Incrementar el nivel de concienciación<br> medioambiental a la gente<br> que entra a la pagina web|   - Procentaje de usuarios que entran el pagina web y se salen sin interaccionar<br>- Porcentaje de usuarios que visitan la sección de sostenibilidad/medioambiente<br> - Tiempo promedio en las páginas relacionadas con la sostenibilidad   |
+|Medir el nivel de experiencia de los<br> usuarios mientras navegan<br> por la pagina web|   - Tiempo promedio de permanencia en la página<br> - Puntuación en encuestas de satisfacción de usuarios<br> - Tasa de clics en enlaces de navegación dentro de la web   |
 
 
- - metodos/criterios info cualitativa y cuantitativa (etnografia, herramientas, encuestas y  
+### Información cualitativa y cuantitativa:
+
+A continuacion definiremos los medodos par obtenerlos:
+
+#### Información cuantitativa:
+
+   - Encuenta de satisfaccion: Realizaremos encuestas para poder observar el nivel de agrado de los usuarios mientras navegan por la pagina web, buscan un punto sostenible para donar ropa o encontran las tiendas disponibles mas cercanas.
+   - Cuestionario: Se recopilara información a cerca de posibles aspectos a mejorar para hacer de la interaccion con la pagina una experencia mas agradable y libiana.
+   - Analisis de metricas: Se mediran distintos parametros de la pagina web para observar como interaccionan los usuarios con ella, como la cantidad y el tipo de interacciones de los usuarios o el tiempo promedio que pasa un usuario en una pagina. 
+
+#### Información cualitativa:
+   - Analisis etnografico: 
+
+(etnografia, herramientas, encuestas y  
    (tareas/indicacion/preguntas a los user))
 
 
