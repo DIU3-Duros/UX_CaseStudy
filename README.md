@@ -34,8 +34,6 @@ DIU3-Duros
 
 ## Paso 1. UX User & Desk Research & Analisis 
 
->>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
-
 
 ### 1.a User Reseach Plan
 ![Método UX](img/Competitive.png) 
@@ -70,8 +68,7 @@ A continuacion definiremos los medodos par obtenerlos:
 
    - Encuenta de satisfaccion: Realizaremos encuestas para poder observar el nivel de agrado de los usuarios mientras navegan por la pagina web, buscan un punto sostenible para donar ropa o encontran las tiendas disponibles mas cercanas.
    - Cuestionario: Se recopilara información a cerca de posibles aspectos a mejorar para hacer de la interaccion con la pagina una experencia mas agradable y libiana.
-   - Analisis de metricas: Se mediran distintos parametros de la pagina web para observar como interaccionan los usuarios con ella, como la cantidad y el tipo de interacciones de los usuarios o el tiempo promedio que pasa un usuario en una pagina. 
->>> Describe el plan en tu User Research (cómo se plantea la selección de usuarios). Borra esta línea cuando lo tengas.  
+   - Analisis de metricas: Se mediran distintos parametros de la pagina web para observar como interaccionan los usuarios con ella, como la cantidad y el tipo de interacciones de los usuarios o el tiempo promedio que pasa un usuario en una pagina.  
 
 
 ### 1.b Competitive Analysis
