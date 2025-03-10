@@ -78,7 +78,7 @@ Nos hemos decantado "Moda re" porque es to fea.
 Hay otras pag web mas bonicas que son mejore que la otra basura: zara, humana.
 hay cosas que tienen zara y humana que moda -re no tienen.
 
-//Foto de analisis comparando las tres tiendas
+//Foto de analisis comparando las tres tiendas ![ANALISIS](img/Competitive.png) 
 
 Conclusion final.
 
@@ -88,6 +88,8 @@ Conclusion final.
 ### 1.c Personas
 ![Método UX](img/Persona.png) 
 -----
+![PERSONA 1](img/Persona1.png) 
+![PERSONA 2](img/Persona2.png) 
 
 >>> Junto con la captura de pantalla de la ficha de la persona, haz una breve descripción de la misma. Recuerda que son dos. Los recursos de imagen deberán estar dentro de la carpeta P1/ Cuando termines, borra esta línea.  
 
@@ -95,6 +97,9 @@ Conclusion final.
 ### 1.d User Journey Map
 ![Método UX](img/JourneyMap.png) 
 ----
+
+![PERSONA 1](img/Persona1_journeyMap.png) 
+![PERSONA 2](img/Persona2_journeyMap.png) 
 
 >>> Describe el porqué de las dos experiencias de usuario contadas en el journey map. Por ejemplo, reflexiona si te parece que son habituales. Enlaza con los recursos journey que están en la carpeta P1/. Borra esta linea del template cuando termines.  
 
