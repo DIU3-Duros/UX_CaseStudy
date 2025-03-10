@@ -72,9 +72,10 @@ A continuacion definiremos los medodos par obtenerlos:
 
 ### 1.b Competitive Analysis
 -----
-Como vamos a centrarnos en el tema de la moda de segunda mano, analizaremos "ModaRe" frente a otras paginas webs como son la de "Zara" o "Humana", que son empresas grandes y relacionas con el tema del medioambiente, reciclaje y el comercio sostenible.
-"Zara" aunque el tema principal no sea la ropa de segunda mano, es una empresa de moda muy concienciada con el reciclaje y las prácticas sostenibles, en cambio "Humana" el tema porincipal si es la ropa de segunda mano y muy parecida a lo que busca "ModaRe".<br>
-Ahora hemos hecho un analisis para comparar los puntos fuertes de las tres paginas y ver donde se puede mejorar viendo los puntos fuertes de las otras webs:
+Como vamos a centrarnos en el tema de la moda de segunda mano, analizaremos "ModaRe" frente a otras páginas web como "Zara" o "Humana", que son empresas grandes y están relacionadas con el medioambiente, el reciclaje y el comercio sostenible.
+Aunque el tema principal de "Zara" no sea la ropa de segunda mano, es una empresa de moda muy concienciada con el reciclaje y las prácticas sostenibles. Por otro lado, en "Humana", el tema principal sí es la ropa de segunda mano, siendo muy parecida a lo que busca "ModaRe".
+<br>
+Ahora hemos realizado un análisis para comparar los puntos fuertes de las tres páginas y detectar posibles áreas de mejora, tomando como referencia los aspectos positivos de las otras webs:
 
 - https://modare.org/
 - https://www.zara.com/es/
