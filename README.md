@@ -36,7 +36,6 @@ DIU3-Duros
 
 
 ### 1.a User Reseach Plan
-![Método UX](img/Competitive.png) 
 -----
 
 Nuestro proyecto se centra en el análisis del ocio y el comercio sostenible, centrado en el reciclaje y la artesanía. Veremos cómo las personas interactúan con iniciativas que fomentan la reutilización de materiales, la producción artesanal y el consumo responsable, identificando sus motivaciones, barreras y expectativas. Para ello, investigaremos distintos tipos de usuarios, como consumidores comprometidos con la sostenibilidad, amantes de la moda y el arte o compradores económicos, consiguiendo así mejorar la experiencia del usuario, impulsarlos al uso de prácticas sostenibles y generar concienciación.
@@ -72,34 +71,31 @@ A continuacion definiremos los medodos par obtenerlos:
 
 
 ### 1.b Competitive Analysis
-![Método UX](img/Competitive.png) 
 -----
 Nos hemos decantado "Moda re" porque es to fea.
 Hay otras pag web mas bonicas que son mejore que la otra basura: zara, humana.
 hay cosas que tienen zara y humana que moda -re no tienen.
 
-//Foto de analisis comparando las tres tiendas ![ANALISIS](img/Competitive.png) 
+//Foto de analisis comparando las tres tiendas ![Método UX](img/Competitive.png) 
 
 Conclusion final.
 
 >>> Describe brevemente características de las aplicaciones que tiene asignadas tu grupo. Decidete por una y explica por qué se ha seleccionado. Borra esta línea cuando lo tengas. 
 
 
-### 1.c Personas
-![Método UX](img/Persona.png) 
+### 1.c Personas 
 -----
-![PERSONA 1](img/Persona1.png) 
-![PERSONA 2](img/Persona2.png) 
+![Método UX](img/Persona1.png) 
+![Método UX](img/Persona2.png) 
 
 >>> Junto con la captura de pantalla de la ficha de la persona, haz una breve descripción de la misma. Recuerda que son dos. Los recursos de imagen deberán estar dentro de la carpeta P1/ Cuando termines, borra esta línea.  
 
 
 ### 1.d User Journey Map
-![Método UX](img/JourneyMap.png) 
 ----
 
-![PERSONA 1](img/Persona1_journeyMap.png) 
-![PERSONA 2](img/Persona2_journeyMap.png) 
+![Método UX](img/Persona1_journeyMap.png) 
+![Método UX](img/Persona2_journeyMap.png) 
 
 >>> Describe el porqué de las dos experiencias de usuario contadas en el journey map. Por ejemplo, reflexiona si te parece que son habituales. Enlaza con los recursos journey que están en la carpeta P1/. Borra esta linea del template cuando termines.  
 
