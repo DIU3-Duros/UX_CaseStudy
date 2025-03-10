@@ -72,13 +72,16 @@ A continuacion definiremos los medodos par obtenerlos:
 
 ### 1.b Competitive Analysis
 -----
-Nos hemos decantado "Moda re" porque es to fea.
-Hay otras pag web mas bonicas que son mejore que la otra basura: zara, humana.
-hay cosas que tienen zara y humana que moda -re no tienen.
+Como vamos a centrarnos en el tema de la moda de segunda mano, analizaremos "ModaRe" frente a otras paginas webs como son la de "Zara" o "Humana", que son empresas grandes y relacionas con el tema del medioambiente, reciclaje y el comercio sostenible.
+"Zara" aunque el tema principal no sea la ropa de segunda mano, es una empresa de moda muy concienciada con el reciclaje y las prácticas sostenibles, en cambio "Humana" el tema porincipal si es la ropa de segunda mano y muy parecida a lo que busca "ModaRe".<br>
+Ahora hemos hecho un analisis para comparar los puntos fuertes de las tres paginas y ver donde se puede mejorar viendo los puntos fuertes de las otras webs:
+
+- https://modare.org/
+- https://www.zara.com/es/
+- https://www.humana-spain.org/
 
 //Foto de analisis comparando las tres tiendas ![Método UX](img/Competitive.png) 
 
-Conclusion final.
 
 >>> Describe brevemente características de las aplicaciones que tiene asignadas tu grupo. Decidete por una y explica por qué se ha seleccionado. Borra esta línea cuando lo tengas. 
 
