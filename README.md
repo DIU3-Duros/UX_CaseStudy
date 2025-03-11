@@ -40,8 +40,6 @@ DIU3-Duros
 
 Nuestro proyecto se centra en el análisis del ocio y el comercio sostenible, centrado en el reciclaje y la artesanía. Veremos cómo las personas interactúan con iniciativas que fomentan la reutilización de materiales, la producción artesanal y el consumo responsable, identificando sus motivaciones, barreras y expectativas. Para ello, investigaremos distintos tipos de usuarios, como consumidores comprometidos con la sostenibilidad, amantes de la moda y el arte o compradores económicos, consiguiendo así mejorar la experiencia del usuario, impulsarlos al uso de prácticas sostenibles y generar concienciación.
 
-Para desarrollar nuestro estudio, hemos decidido de entre la opciones centrarnos en la moda de segunda mano. Consideramos que esta opción nos permitirá evaluar su experiencia, detectar oportunidades de mejora y optimizar la accesibilidad y usabilidad de este tipo de plataformas.
-
 ### Objetivos generales + KPI's
 
 
@@ -72,8 +70,10 @@ A continuacion definiremos los medodos par obtenerlos:
 
 ### 1.b Competitive Analysis
 -----
-Como vamos a centrarnos en el tema de la moda de segunda mano, analizaremos "ModaRe" frente a otras páginas web como "Zara" o "Humana", que son empresas grandes y están relacionadas con el medioambiente, el reciclaje y el comercio sostenible.
-Aunque el tema principal de "Zara" no sea la ropa de segunda mano, es una empresa de moda muy concienciada con el reciclaje y las prácticas sostenibles. Por otro lado, en "Humana", el tema principal sí es la ropa de segunda mano, siendo muy parecida a lo que busca "ModaRe".
+Hemos decidido de entre la opciones centrarnos en la moda de segunda mano con la pagina de "Moda-Re". Consideramos que hay mas asceptos de mejorar en esta pagina frente las otras, por lo que podremos detectar oportunidades de mejora y optimizar la accesibilidad y usabilidad de esta plataformas.
+
+Como vamos a centrarnos en el tema de la moda de segunda mano, analizaremos "Moda-Re" frente a otras páginas web como "Zara" o "Humana", que son empresas grandes y están relacionadas con el medioambiente, el reciclaje y el comercio sostenible.
+Aunque el tema principal de "Zara" no sea la ropa de segunda mano, es una empresa de moda muy concienciada con el reciclaje y las prácticas sostenibles, ya que, tiene un apartado de donación de ropa para proporcionar una segunda vida a esas prendas en centros sin animo de lucro. Por otro lado, en "Humana", el tema principal sí es la ropa de segunda mano, siendo muy parecida a lo que busca "Moda-Re".
 <br>
 Ahora hemos realizado un análisis para comparar los puntos fuertes de las tres páginas y detectar posibles áreas de mejora, tomando como referencia los aspectos positivos de las otras webs:
 
