@@ -89,6 +89,8 @@ Ahora hemos realizado un análisis para comparar los puntos fuertes de las tres 
 
 ### 1.c Personas 
 -----
+Introducción 
+
 ![Método UX](img/Persona1.png) 
 ![Método UX](img/Persona2.png) 
 
@@ -97,6 +99,7 @@ Ahora hemos realizado un análisis para comparar los puntos fuertes de las tres 
 
 ### 1.d User Journey Map
 ----
+Introducción 
 
 ![Método UX](img/Persona1_journeyMap.png) 
 ![Método UX](img/Persona2_journeyMap.png) 
@@ -108,16 +111,13 @@ Ahora hemos realizado un análisis para comparar los puntos fuertes de las tres 
 ![Método UX](img/usabilityReview.png) 
 ----
 
-La pagina de Mode Re- ha obtenido un ... sobre 100 
+La pagina de Mode Re- ha obtenido un 63 sobre 100 
 
-En cuanto a las estetica, Moda Re- nos ofrece una pagina muy vistosa y agradable a la vista, con colores y tonos pastel quew hace que leer el contenido de la pagina y acceder a sus funcionalidades sea agradable y placentero. Pero en cuando al diseño, la pagina tiene bastantes aspectos negativos a comentar que afectan a la calidad del contenido. Lo primero que se puede observar al entrar en algunas secciones de la pagina web es que contiene una mala estructuracion, tanto con el texto como con las imagenes, y es que muchas veces entremezclan el titulo de la pagina o de la sección con el parrafo que la explica haciendo que este sea difícil de leer o que lo ignores por completo. Otro problema que tiene la pagina es la redundancia de la información que intentan mostrar, ya que en varias de las secciones que tiene la pagina se repite la informacion del titulo en el siguiente parrafo, haciendo que no solo te canses de leer lo que te muestra y te vuelve más propenso a salirte de la página. Tras esto, vemos una clara incosistencia en el formato que tiene la pagina ya que no solo no utiliza las mismas fuentes para la estuctura de todos los titulos y parrafos del sitio, sino que en ocasiones te proporcionan un enlace para obtener mas información y otras no.
+En cuanto a las estetica, Moda Re- nos ofrece una pagina muy agradable a la vista, con colores y tonos pastel que hacen que leer el contenido de la pagina y acceder a sus funcionalidades sea agradable y placentero. Pero en cuando al diseño, la pagina tiene bastantes aspectos negativos a comentar que afectan a la calidad del contenido. Lo primero que se puede observar al entrar en algunas secciones de la pagina web es que contiene una mala estructuracion, tanto con el texto como con las imagenes, y es que muchas veces entremezclan el titulo de la pagina o de la sección con el parrafo que la explica haciendo que este sea difícil de leer o que lo ignores por completo. Otro problema que tiene la pagina es la redundancia de la información que intentan mostrar, ya que en varias de las secciones que tiene la pagina se repite la informacion del titulo en el siguiente parrafo, haciendo que no solo te canses de leer lo que te muestra y te vuelve más propenso a salirte de la página. Tras esto, vemos una clara incosistencia en el formato que tiene la pagina ya que no solo no utiliza las mismas fuentes para la estuctura de todos los titulos y parrafos del sitio, sino que en ocasiones te proporcionan un enlace para obtener mas información y otras no.
 
-Tambien tenemos que, en la funcionalidad mas destacada del sitio web, la busqueda de tiendas fisicas de Moda Re- o de puntos de recogida de ropa tiene bastantes problemas. No te indica que para buscar correctamente un punto en una ubicación concreta obligaroriamente tienes que indicar un codigo postal y una distancia minima de busqueda. En caso contrario no realiza ninguna busqueda y te muestra un mapa con todos los puntos disponibles, lo que puede llegar a saturar al usuario. Por otra parte, con o sin busqueda de sitio especifico, se muestra la información de los lugares disponibles en secciones poco estructuradas y con información redundante e innecesaria con un scroll vertical poco intuitivo.
+Tambien en la funcionalidad de busqueda de tiendas fisicas de Moda Re- o de puntos de recogida de ropa tiene bastantes problemas. No te indica que para buscar correctamente un punto en una ubicación concreta obligaroriamente tienes que indicar un codigo postal y una distancia minima de busqueda. En caso contrario no realiza ninguna busqueda y te muestra un mapa con todos los puntos disponibles, lo que puede llegar a saturar al usuario. Por otra parte, con o sin busqueda de sitio especifico, se muestra la información de los lugares disponibles en secciones poco estructuradas y con información redundante e innecesaria con un scroll vertical poco intuitivo.
 
->>>  El objetivo es revisar la usabilidad del competidor seleccionado. Usamos un checklist de verificación. Tras usarlo, subelo a la carpeta P1/ Ofrece aquí un parrafo para:
->>> - Enlace al documento:  (xls/pdf) 
->>> - URL y Valoración numérica obtenida: 
->>> - Comentario sobre la revisión:  (puntos fuertes y débiles detectados)
+Enlace: [Aqui](P1/Usability-review-Moda-Re.xlsx).
 
 <br>
 
