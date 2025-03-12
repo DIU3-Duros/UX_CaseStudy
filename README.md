@@ -89,8 +89,8 @@ Ahora hemos realizado un análisis para comparar los puntos fuertes de las tres 
 
 ### 1.c Personas 
 -----
-Introducción 
-
+Presentamos dos perfiles diferentes, donde cada uno aporta su visión y experiencia desde perspectivas diferentes, pero con el objetivo común. Ismael es un líder extrovertido y ordenado, apasionado por la moda, la tecnología y el impacto positivo en el medioambiente.  Alejandra por otro lado es una persona creativa y comprometida con el consumo responsable, el bienestar animal y la innovación tecnológica.
+<br>
 ![Método UX](img/Persona1.png) 
 ![Método UX](img/Persona2.png) 
 
@@ -99,8 +99,8 @@ Introducción
 
 ### 1.d User Journey Map
 ----
-Introducción 
-
+Ismael y Alejandra exploran el mundo del reciclaje y el comercio sostenible desde perspectivas diferentes. Para Ismael, la plataforma representa una oportunidad para entender mejor la sostenibilidad en el marketing, pero la falta de accesibilidad en la web dificulta su experiencia, especialmente al intentar colaborar. A pesar de esto, encuentra valor en la donación de ropa y su impacto positivo. Mientras, Alejandra busca tiendas físicas para comprar ropa de segunda mano de forma consciente. Aunque la web le ayuda a ubicar opciones cercanas, la falta de información sobre disponibilidad y calidad de los productos le genera dudas.
+<br>
 ![Método UX](img/Persona1_journeyMap.png) 
 ![Método UX](img/Persona2_journeyMap.png) 
 
