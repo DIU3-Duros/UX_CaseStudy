@@ -19,7 +19,6 @@ Nuestro proyecto se centra en el análisis del ocio y el comercio sostenible, ce
 |Incrementar el nivel de concienciación<br> medioambiental a la gente<br> que entra a la pagina web|   - Procentaje de usuarios que entran el pagina web y se salen sin interaccionar<br>- Porcentaje de usuarios que visitan la sección de sostenibilidad/medioambiente<br> - Tiempo promedio en las páginas relacionadas con la sostenibilidad   |
 |Medir el nivel de experiencia de los<br> usuarios mientras navegan<br> por la pagina web|   - Tiempo promedio de permanencia en la página<br> - Puntuación en encuestas de satisfacción de usuarios<br> - Tasa de clics en enlaces de navegación dentro de la web   |
 
-
 ### Información cualitativa y cuantitativa:
 
 A continuacion definiremos los medodos par obtenerlos:
