@@ -81,7 +81,7 @@ Ahora hemos realizado un análisis para comparar los puntos fuertes de las tres 
 - https://www.zara.com/es/
 - https://www.humana-spain.org/
 
-//Foto de analisis comparando las tres tiendas ![Método UX](img/Competitive.png) 
+//Foto de analisis comparando las tres tiendas ![Método UX](img/Competitive_modare.png) 
 
 
 >>> Describe brevemente características de las aplicaciones que tiene asignadas tu grupo. Decidete por una y explica por qué se ha seleccionado. Borra esta línea cuando lo tengas. 
