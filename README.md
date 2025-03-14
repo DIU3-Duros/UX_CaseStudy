@@ -81,10 +81,10 @@ Ahora hemos realizado un análisis para comparar los puntos fuertes de las tres 
 - https://www.zara.com/es/
 - https://www.humana-spain.org/
 
-//Foto de analisis comparando las tres tiendas ![Método UX](img/Competitive_modare.png) 
+![Método UX](img/Competitive_modare.png) 
 
 
->>> Describe brevemente características de las aplicaciones que tiene asignadas tu grupo. Decidete por una y explica por qué se ha seleccionado. Borra esta línea cuando lo tengas. 
+
 
 
 ### 1.c Personas 
@@ -94,8 +94,6 @@ Presentamos dos perfiles diferentes, donde cada uno aporta su visión y experien
 ![Método UX](img/Persona1.png) 
 ![Método UX](img/Persona2.png) 
 
->>> Junto con la captura de pantalla de la ficha de la persona, haz una breve descripción de la misma. Recuerda que son dos. Los recursos de imagen deberán estar dentro de la carpeta P1/ Cuando termines, borra esta línea.  
-
 
 ### 1.d User Journey Map
 ----
@@ -104,15 +102,14 @@ Ismael y Alejandra exploran el mundo del reciclaje y el comercio sostenible desd
 ![Método UX](img/Persona1_journeyMap.png) 
 ![Método UX](img/Persona2_journeyMap.png) 
 
->>> Describe el porqué de las dos experiencias de usuario contadas en el journey map. Por ejemplo, reflexiona si te parece que son habituales. Enlaza con los recursos journey que están en la carpeta P1/. Borra esta linea del template cuando termines.  
-
 
 ### 1.e Usability Review
-![Método UX](img/usabilityReview.png) 
 ----
 
 La pagina de Mode Re- ha obtenido un 63 sobre 100 
-
+<br><br>
+![Método UX](img/usabilityReview_nota.png) 
+<br><br>
 En cuanto a las estetica, Moda Re- nos ofrece una pagina muy agradable a la vista, con colores y tonos pastel que hacen que leer el contenido de la pagina y acceder a sus funcionalidades sea agradable y placentero. Pero en cuando al diseño, la pagina tiene bastantes aspectos negativos a comentar que afectan a la calidad del contenido. Lo primero que se puede observar al entrar en algunas secciones de la pagina web es que contiene una mala estructuracion, tanto con el texto como con las imagenes, y es que muchas veces entremezclan el titulo de la pagina o de la sección con el parrafo que la explica haciendo que este sea difícil de leer o que lo ignores por completo. Otro problema que tiene la pagina es la redundancia de la información que intentan mostrar, ya que en varias de las secciones que tiene la pagina se repite la informacion del titulo en el siguiente parrafo, haciendo que no solo te canses de leer lo que te muestra y te vuelve más propenso a salirte de la página. Tras esto, vemos una clara incosistencia en el formato que tiene la pagina ya que no solo no utiliza las mismas fuentes para la estuctura de todos los titulos y parrafos del sitio, sino que en ocasiones te proporcionan un enlace para obtener mas información y otras no.
 
 Tambien en la funcionalidad de busqueda de tiendas fisicas de Moda Re- o de puntos de recogida de ropa tiene bastantes problemas. No te indica que para buscar correctamente un punto en una ubicación concreta obligaroriamente tienes que indicar un codigo postal y una distancia minima de busqueda. En caso contrario no realiza ninguna busqueda y te muestra un mapa con todos los puntos disponibles, lo que puede llegar a saturar al usuario. Por otra parte, con o sin busqueda de sitio especifico, se muestra la información de los lugares disponibles en secciones poco estructuradas y con información redundante e innecesaria con un scroll vertical poco intuitivo.
