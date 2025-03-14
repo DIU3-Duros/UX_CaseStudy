@@ -81,6 +81,6 @@ En cuanto a las estetica, Moda Re- nos ofrece una pagina muy agradable a la vist
 
 Tambien en la funcionalidad de busqueda de tiendas fisicas de Moda Re- o de puntos de recogida de ropa tiene bastantes problemas. No te indica que para buscar correctamente un punto en una ubicación concreta obligaroriamente tienes que indicar un codigo postal y una distancia minima de busqueda. En caso contrario no realiza ninguna busqueda y te muestra un mapa con todos los puntos disponibles, lo que puede llegar a saturar al usuario. Por otra parte, con o sin busqueda de sitio especifico, se muestra la información de los lugares disponibles en secciones poco estructuradas y con información redundante e innecesaria con un scroll vertical poco intuitivo.
 
-Enlace: [Aqui](P1/Usability-review-Moda-Re.xlsx).
+Enlace: [Aqui](Usability-review-Moda-Re.xlsx).
 
 <br>
