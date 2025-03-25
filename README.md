@@ -151,7 +151,17 @@ Enlace: [Aqui](P1/Usability-review-Moda-Re.xlsx).
 ![Método UX](img/Sitemap.png) 
 -----
 
-
+| User Groups | Donantes | Transportistas | Administradores |
+|-------------|----------|----------------|-----------------|
+|Iniciar sesión / registrarse	|H|H|H|
+|Crear una donación	|M|H||
+|Buscar puntos de recolección cercanos	|H|M||
+|Crear puntos de recogida	|M|H||
+|Participar en donaciones	|H|L||
+|Mirar perfiles de otros usuarios|H|M|M|
+|Usar foro / comunidad	|M|H|L|
+|Acceder a información del proceso|H|M|H|
+|Resolver dudas con soporte|||H|
 
 >>> Definir "User Map" y "Task Flow" ... enlazar desde P2/ y describir brevemente
 
