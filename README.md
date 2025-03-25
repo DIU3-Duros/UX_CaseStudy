@@ -151,6 +151,8 @@ Enlace: [Aqui](P1/Usability-review-Moda-Re.xlsx).
 ![Método UX](img/Sitemap.png) 
 -----
 
+
+
 >>> Definir "User Map" y "Task Flow" ... enlazar desde P2/ y describir brevemente
 
 
