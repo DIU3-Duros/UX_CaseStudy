@@ -120,65 +120,79 @@ Enlace: [Aqui](P1/Usability-review-Moda-Re.xlsx).
 
 ## Paso 2. UX Design  
 
->>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
-
 ### 2.a Reframing / IDEACION: Feedback Capture Grid / EMpathy map 
-![Método UX](img/feedback-capture-grid.png) 
 ----
-
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior. De qué carece la competencia?? Tu diagrama puede ser una figura subida a la carpeta P2/
-
-
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
-  
-    
->>> Explica el Problema y plantea una hipótesis. Es decir, explica aquí qué 
->>> se plantea como "propuesta de valor" para un nuevo diseño de aplicación propio
-
+Hemos hecho el Feedback capture grid con las ideas que queriamos para nuestro proyecto, quedando de la siguiente manera: <br>
+<br>
+![ideacion](img/Feedback_capture_grid.png) 
 
 ### 2.b ScopeCanvas
-![Método UX](img/ScopeCanvas.png)
 ----
 
->>> Propuesta de valor, pero ahora en vez de un texto es un ScopeCanvas que has subido a P2/ y enlazado desde aqui. Tambien vale una imagen miniatura del recurso.
->>> No olvides que tu propuesta ya tiene un nombre corto y puedes actualizar la cabecera de este archivo
+![idea](img/ScopeCanvas.png) 
 
-
-
-### 2.b User Flow (task) analysis 
-![Método UX](img/Sitemap.png) 
+### 2.b Tasks analysis 
 -----
+En nuestra matriz de tareas de usuario, hemos recopilado las funciones de nuestra web y como de relevante serian para cada tipo de usuario, hemos añadido tres tipos de usuarios, dando las prioridades de alta(H), media(M) y baja(L).<br>
+<br>
 
-| User Groups | Donantes | Transportistas | Administradores |
-|-------------|----------|----------------|-----------------|
-|Iniciar sesión / registrarse	|H|H|H|
-|Crear una donación	|M|H||
-|Buscar puntos de recolección cercanos	|H|M||
-|Crear puntos de recogida	|M|H||
-|Participar en donaciones	|H|L||
-|Mirar perfiles de otros usuarios|H|M|M|
-|Usar foro / comunidad	|M|H|L|
-|Acceder a información del proceso|H|M|H|
-|Resolver dudas con soporte|||H|
+| User Groups                          | Donantes | Transportistas | Administradores |
+|--------------------------------------|----------|----------------|-----------------|
+| Iniciar sesión / registrarse         | H        | H              | H               |
+| Crear puntos de recogida             | M        | H              |                 |
+| Buscar puntos de recolección cercanos| H        | M              |                 |
+| Participar en donaciones             | H        | L              |                 |
+| Donación entregada correctamente     | H        | H              | L               |
+| Mirar perfiles de otros usuarios     | H        | M              | M               |
+| Usar foro / comunidad                | M        | H              | L               |
+| Acceder a información del proceso    | H        | M              | H               |
+| Resolver dudas con soporte           |          |                | H               |
 
->>> Definir "User Map" y "Task Flow" ... enlazar desde P2/ y describir brevemente
+
+<br>
+<br>
+Y hemos mostrado el flujo de tres tareas que consideramos las mas importantes:
+
+![INICIOSESION](img/inicio.drawio.png) 
+![taskFlow](img/diagrama2.png) 
+![taskFlow](img/diagrama3.png) 
 
 
 ### 2.c IA: Sitemap + Labelling 
-![Método UX](img/labelling.png) 
 ----
 
->>> Identificar términos para diálogo con usuario (evita el spanglish) y la arquitectura de la información. Es muy apropiado un diagrama tipo sitemap y una tabla que se ampliaría para llevar asociado la columna iconos (tanto para la web como para una app). 
+Nuestro sitemap para la navegacion de la nueva pagina de ModaRe- seria el siguiente:<br>
+<br>
+![sitemap](img/sitemap.png) 
+<br>
+<br>
 
-Término | Significado     
-| ------------- | -------
-  Login  | acceder a plataforma
+| Etiqueta                       | Nota                                                 | Icono |
+|--------------------------------|------------------------------------------------------|-------|
+| Página de Inicio               | Página principal del sitio web                       | ❌  |
+| CONTACTO                       | Sección para contactar con la organización           | ❌  |
+| QUIENES SOMOS                  | Información sobre la organización y su misión        | ❌  |
+| Proyecto                       | Descripción del proyecto principal                   | ❌  |
+| Impacto                        | Datos y métricas sobre el impacto del proyecto       | ❌  |
+| Transparencia                  | Información sobre transparencia y gestión de recursos| ❌  |
+| Magazine                       | Publicaciones y artículos relacionados con la temática| ❌  |
+| I+D                            | Información sobre innovación e investigación         | ❌  |
+| Tiendas                        | Puntos de venta y tiendas asociadas                  | ❌  |
+| COLABORA                       | Sección para colaborar con la organización           | ❌  |
+| Empresa                        | Cómo pueden colaborar las empresas                   | ❌  |
+| Institución Pública            | Participación de entidades gubernamentales           | ❌  |
+| Particular                     | Opciones de colaboración para particulares           | ❌  |
+| Tiendas                        | Tiendas que participan en la iniciativa              | ❌  |
+| Contenedores                   | Información sobre puntos de recogida                 | ❌  |
+| Inicio de sesion / Registro    | Sección para usuarios registrados                    | ❌  |
+| Perfil                         | Información y gestión del perfil de usuario          | ❌  |
+| Crear Puntos de recogida       | Opción para generar nuevos puntos de recogida        | ❌  |
+| Buscar Puntos de recogida      | Opción para localizar puntos de recogida existentes  | ❌  |
+| Información Proceso            | Detalles sobre el proceso de recogida y participación | ❌  |
+| Participar                     | Formas en las que se puede participar                | ❌  |
 
 
 ### 2.d Wireframes
-![Método UX](img/Wireframes.png) 
 -----
 
 >>> Plantear el diseño del layout para Web/movil (organización y simulación). Describa la herramienta usada 
