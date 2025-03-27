@@ -133,8 +133,7 @@ Hemos hecho el Feedback capture grid con las ideas que queriamos para nuestro pr
 
 ### 2.b Tasks analysis 
 -----
-En nuestra matriz de tareas de usuario, hemos recopilado las funciones de nuestra web y como de relevante serian para cada tipo de usuario, hemos añadido tres tipos de usuarios, dando las prioridades de alta(H), media(M) y baja(L).<br>
-<br>
+En nuestra matriz de tareas de usuario, hemos recopilado las funciones de nuestra web y como de relevante serian para cada tipo de usuario, hemos añadido tres tipos de usuarios, dando las prioridades de alta(H), media(M) y baja(L): <br><br>
 
 | User Groups                          | Donantes | Transportistas | Administradores |
 |--------------------------------------|----------|----------------|-----------------|
@@ -149,9 +148,9 @@ En nuestra matriz de tareas de usuario, hemos recopilado las funciones de nuestr
 | Resolver dudas con soporte           |          |                | H               |
 
 <br>
-Y hemos mostrado el flujo de tres tareas que consideramos las mas importantes:<br>
-<br>
-![INICIOSESION](img/inicio.drawio.png) 
+Y hemos mostrado el flujo de tres tareas que consideramos las mas importantes:<br><br>
+
+![INICIOSESION](img/inicio.drawio.png)
 ![taskFlow](img/diagrama2.png) 
 ![taskFlow](img/diagrama3.png) 
 
@@ -159,35 +158,34 @@ Y hemos mostrado el flujo de tres tareas que consideramos las mas importantes:<b
 ### 2.c IA: Sitemap + Labelling 
 ----
 
-Nuestro sitemap para la navegacion de la nueva pagina de ModaRe- seria el siguiente:<br>
-<br>
-![sitemap](img/sitemap.png) 
-<br>
-<br>
+Nuestro sitemap para la navegacion de la nueva pagina de ModaRe- seria el siguiente:<br><br>
 
-| Etiqueta                       | Nota                                                 | Icono |
-|--------------------------------|------------------------------------------------------|-------|
-| Página de Inicio               | Página principal del sitio web                       | ❌  |
-| CONTACTO                       | Sección para contactar con la organización           | ❌  |
-| QUIENES SOMOS                  | Información sobre la organización y su misión        | ❌  |
-| Proyecto                       | Descripción del proyecto principal                   | ❌  |
-| Impacto                        | Datos y métricas sobre el impacto del proyecto       | ❌  |
-| Transparencia                  | Información sobre transparencia y gestión de recursos| ❌  |
-| Magazine                       | Publicaciones y artículos relacionados con la temática| ❌  |
-| I+D                            | Información sobre innovación e investigación         | ❌  |
-| Tiendas                        | Puntos de venta y tiendas asociadas                  | ❌  |
-| COLABORA                       | Sección para colaborar con la organización           | ❌  |
-| Empresa                        | Cómo pueden colaborar las empresas                   | ❌  |
-| Institución Pública            | Participación de entidades gubernamentales           | ❌  |
-| Particular                     | Opciones de colaboración para particulares           | ❌  |
-| Tiendas                        | Tiendas que participan en la iniciativa              | ❌  |
-| Contenedores                   | Información sobre puntos de recogida                 | ❌  |
-| Inicio de sesion / Registro    | Sección para usuarios registrados                    | ❌  |
-| Perfil                         | Información y gestión del perfil de usuario          | ❌  |
-| Crear Puntos de recogida       | Opción para generar nuevos puntos de recogida        | ❌  |
-| Buscar Puntos de recogida      | Opción para localizar puntos de recogida existentes  | ❌  |
-| Información Proceso            | Detalles sobre el proceso de recogida y participación | ❌  |
-| Participar                     | Formas en las que se puede participar                | ❌  |
+![sitemap](img/sitemap.png) 
+<br><br>
+
+| Etiqueta                       | Nota                                                  | Icono |
+|--------------------------------|-------------------------------------------------------|-------|
+| Página de Inicio               | Página principal del sitio web                        | ❌   |
+| Contacto                       | Sección para contactar con la organización            | ❌   |
+| Quienes somos                  | Información sobre la organización y su misión         | ❌   |
+| Proyecto                       | Descripción del proyecto principal                    | ❌   |
+| Impacto                        | Datos y métricas sobre el impacto del proyecto        | ❌   |
+| Transparencia                  | Información sobre transparencia y gestión de recursos | ❌   |
+| Magazine                       | Publicaciones y artículos relacionados con la temática| ❌   |
+| I+D                            | Información sobre innovación e investigación          | ❌   | 
+| Tiendas                        | Puntos de venta y tiendas asociadas                   | ❌   |
+| Colabora                       | Sección para colaborar con la organización            | ❌   |
+| Empresa                        | Cómo pueden colaborar las empresas                    | ❌   |
+| Institución Pública            | Participación de entidades gubernamentales            | ❌   |
+| Particular                     | Opciones de colaboración para particulares            | ❌   | 
+| Tiendas                        | Tiendas que participan en la iniciativa               | ❌   |
+| Contenedores                   | Información sobre puntos de recogida                  | ❌   |
+| Inicio de sesion / Registro    | Sección para usuarios registrados                     | ❌   |
+| Perfil                         | Información y gestión del perfil de usuario           | ❌   |
+| Crear Puntos de recogida       | Opción para generar nuevos puntos de recogida         | ❌   | 
+| Buscar Puntos de recogida      | Opción para localizar puntos de recogida existentes   | ❌   |
+| Información Proceso            | Detalles sobre el proceso de recogida y participación | ❌   |
+| Participar                     | Formas en las que se puede participar                 | ❌   | 
 
 
 ### 2.d Wireframes
