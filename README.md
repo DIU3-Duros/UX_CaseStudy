@@ -148,11 +148,9 @@ En nuestra matriz de tareas de usuario, hemos recopilado las funciones de nuestr
 | Acceder a información del proceso    | H        | M              | H               |
 | Resolver dudas con soporte           |          |                | H               |
 
-
 <br>
+Y hemos mostrado el flujo de tres tareas que consideramos las mas importantes:<br>
 <br>
-Y hemos mostrado el flujo de tres tareas que consideramos las mas importantes:
-
 ![INICIOSESION](img/inicio.drawio.png) 
 ![taskFlow](img/diagrama2.png) 
 ![taskFlow](img/diagrama3.png) 
