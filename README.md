@@ -153,9 +153,9 @@ Y hemos mostrado el flujo de tres tareas que consideramos las mas importantes:<b
 ### Flujo Inicio de Sesión
 ![INICIOSESION](img/inicio.drawio.png) <br>
 ### Flujo Crear Punto de Recogida
-![taskFlow](img/diagrama2.png) <br>
+![CREARPUNTO](img/diagrama2.png) <br>
 ### Flujo Participar Donación
-![taskFlow](img/diagrama3.png) <br>
+![PARTICIPARDONACION](img/diagrama3.png) <br>
 
 
 ### 2.c IA: Sitemap + Labelling 
@@ -193,7 +193,16 @@ Nuestro sitemap para la navegacion de la nueva pagina de ModaRe- seria el siguie
 
 ### 2.d Wireframes
 -----
+Para la creacion de los warframes se ha utilizado la extension drawio de google drive.
 
+### Iniciar Sesion/Registrarse
+![INICIARSESION/REGISTRASE](img/wirefram1.png) <br>
+### Home Page
+![HOMEPAGE](img/wirefram2.png) <br>
+### Comunidad
+![COMUNIDAD](img/wirefram3.png) <br>
+### Crear Punto Recogida
+![CREARPUNTO](img/wirefram4.png) <br>
 >>> Plantear el diseño del layout para Web/movil (organización y simulación). Describa la herramienta usada 
 
 <br>
