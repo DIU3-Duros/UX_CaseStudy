@@ -196,13 +196,13 @@ Nuestro sitemap para la navegacion de la nueva pagina de ModaRe- seria el siguie
 Para la creacion de los warframes se ha utilizado la extension drawio de google drive.
 
 ### Iniciar Sesion/Registrarse
-![INICIARSESION/REGISTRASE](img/wirefram1.png) <br>
+![INICIARSESION/REGISTRASE](img/wireframe1.png) <br>
 ### Home Page
-![HOMEPAGE](img/wirefram2.png) <br>
+![HOMEPAGE](img/wireframe2.png) <br>
 ### Comunidad
-![COMUNIDAD](img/wirefram3.png) <br>
+![COMUNIDAD](img/wireframe3.png) <br>
 ### Crear Punto Recogida
-![CREARPUNTO](img/wirefram4.png) <br>
+![CREARPUNTO](img/wireframe4.png) <br>
 >>> Plantear el diseño del layout para Web/movil (organización y simulación). Describa la herramienta usada 
 
 <br>
