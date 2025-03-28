@@ -150,9 +150,12 @@ En nuestra matriz de tareas de usuario, hemos recopilado las funciones de nuestr
 <br>
 Y hemos mostrado el flujo de tres tareas que consideramos las mas importantes:<br><br>
 
-![INICIOSESION](img/inicio.drawio.png)
-![taskFlow](img/diagrama2.png) 
-![taskFlow](img/diagrama3.png) 
+### Flujo Inicio de Sesión
+![INICIOSESION](img/inicio.drawio.png) <br>
+### Flujo Crear Punto de Recogida
+![taskFlow](img/diagrama2.png) <br>
+### Flujo Participar Donación
+![taskFlow](img/diagrama3.png) <br>
 
 
 ### 2.c IA: Sitemap + Labelling 
