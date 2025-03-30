@@ -5,15 +5,11 @@ Prácticas Diseño Interfaces de Usuario (Tema: El ocio y comercio sostenible )
 
 Grupo: DIU3_Duros.  Curso: 2024/25 
 
-Actualizado: 03/03/2025
+Actualizado: 30/03/2025
 
-Proyecto: 
+Proyecto: Puntos de recogida de la comunidad
 
->>> Decida el nombre corto de su propuesta en la práctica 2 
-
-Descripción: 
-
->>> Describa la idea de su producto en la práctica 2 
+Descripción: Nuestra propuestra trata una especie de foro para crear puntos de recogida por la comunidad, donde los usuarios podran tanto crear un punto de recogida en algun sitio que no tenga la posibilidad de donar por su localizacion y encargarse de ir a un sitio fijado para su entrega, cuando se realize la entrega se notificara. Y a su vez como usuario tambien te podras apuntar en esas propuestas que hagan los otros usuarios para asi tener control de la capacidad, haciendo mas accesible las donaciones apra todo el mundo. Ademas queremos remodelar un poco la pagina para hacerla mas legible y facil para los usuarios.<br>
 
 Logotipo: 
 
@@ -166,29 +162,30 @@ Nuestro sitemap para la navegacion de la nueva pagina de ModaRe- seria el siguie
 ![sitemap](img/sitemap.png) 
 <br><br>
 
-| Etiqueta                       | Nota                                                  | Icono |
-|--------------------------------|-------------------------------------------------------|-------|
-| Página de Inicio               | Página principal del sitio web                        | ❌   |
-| Contacto                       | Sección para contactar con la organización            | ❌   |
-| Quienes somos                  | Información sobre la organización y su misión         | ❌   |
-| Proyecto                       | Descripción del proyecto principal                    | ❌   |
-| Impacto                        | Datos y métricas sobre el impacto del proyecto        | ❌   |
-| Transparencia                  | Información sobre transparencia y gestión de recursos | ❌   |
-| Magazine                       | Publicaciones y artículos relacionados con la temática| ❌   |
-| I+D                            | Información sobre innovación e investigación          | ❌   | 
-| Tiendas                        | Puntos de venta y tiendas asociadas                   | ❌   |
-| Colabora                       | Sección para colaborar con la organización            | ❌   |
-| Empresa                        | Cómo pueden colaborar las empresas                    | ❌   |
-| Institución Pública            | Participación de entidades gubernamentales            | ❌   |
-| Particular                     | Opciones de colaboración para particulares            | ❌   | 
-| Tiendas                        | Tiendas que participan en la iniciativa               | ❌   |
-| Contenedores                   | Información sobre puntos de recogida                  | ❌   |
-| Inicio de sesion / Registro    | Sección para usuarios registrados                     | ❌   |
-| Perfil                         | Información y gestión del perfil de usuario           | ❌   |
-| Crear Puntos de recogida       | Opción para generar nuevos puntos de recogida         | ❌   | 
-| Buscar Puntos de recogida      | Opción para localizar puntos de recogida existentes   | ❌   |
-| Información Proceso            | Detalles sobre el proceso de recogida y participación | ❌   |
-| Participar                     | Formas en las que se puede participar                 | ❌   | 
+| Etiqueta                | Info                                                   | Icono      |
+|-------------------------|--------------------------------------------------------|------------|
+| Página de Inicio        | Página principal del sitio web                         | 🏠         |
+| CONTACTO                | Sección para contactar con la organización             | 📞         |
+| Magazine                | Publicaciones y artículos sobre la temática            | 📖         |
+| QUIENES SOMOS           | Información sobre la organización y su misión          | ℹ️         |
+| Proyecto                | Descripción del proyecto principal                     | 📌         |
+| Impacto                 | Datos y métricas sobre el impacto del proyecto         | 📊         |
+| Transparencia           | Información sobre transparencia y gestión de recursos  | 🏛️         |
+| I+D                     | Investigación y desarrollo relacionados                | 🔬         |
+| COLABORA                | Sección para colaborar con la organización             | 🤝         |
+| Empresa                 | Cómo pueden colaborar las empresas                     | 🏢         |
+| Institución Pública     | Participación de entidades gubernamentales             | 🏛️         |
+| Particular              | Opciones de colaboración para particulares             | 👤         |
+| Tiendas                 | Tiendas que participan en la iniciativa                | 🛒         |
+| Contenedores            | Información sobre puntos de recogida                   | 🚮         |
+| INICIO SESIÓN / REGISTRO | Sección de autenticación de usuarios                  | 🔑         |
+| Perfil                  | Información y gestión del perfil de usuario            | 👤         |
+| Comunidad               | Espacio para interacción y colaboración entre usuarios | 💬         |
+| Foro/Chat               | Plataforma para discusión e intercambio de información | 🗣️         |
+| Crear Puntos de recogida | Opción para generar nuevos puntos de recogida         | ➕         |
+| Buscar Puntos de recogida | Opción para localizar puntos de recogida existentes  | 🔍         |
+| Información Proceso     | Detalles sobre el proceso de recogida y participación  | 📜         |
+| Participar              | Formas en las que se puede participar                  | ✅         |
 
 
 ### 2.d Wireframes
@@ -203,7 +200,6 @@ Para la creacion de los warframes se ha utilizado la extension drawio de google 
 ![COMUNIDAD](img/wireframe3.png) <br>
 ### Crear Punto Recogida
 ![CREARPUNTO](img/wireframe4.png) <br>
->>> Plantear el diseño del layout para Web/movil (organización y simulación). Describa la herramienta usada 
 
 <br>
 
