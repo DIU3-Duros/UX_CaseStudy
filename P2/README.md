@@ -86,6 +86,8 @@ Para la creacion de los warframes se ha utilizado figma con varios de sus assets
 ![CREARPUNTO](img/wireframe3.png) <br>
 ### Mapa Buscar Puntos 
 ![MAPABUSCARPUNTOS](img/wireframe4.png) <br>
+## Comunidad<br>
+Para la seccion de la comunidad vemos su aspecto en distintos dispositivos con diferentes tamaño de pantalla <br>
 ### Comunidad (Movil)
 ![COMUNIDAD](img/wireframe5_1.png) <br>
 ### Comunidad (Tablet)
