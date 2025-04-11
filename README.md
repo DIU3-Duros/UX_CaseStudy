@@ -190,7 +190,7 @@ Nuestro sitemap para la navegacion de la nueva pagina de ModaRe- seria el siguie
 
 ### 2.d Wireframes
 -----
-Para la creacion de los warframes se ha utilizado la extension drawio de google drive.
+Para la creacion de los warframes se ha utilizado figma con varios de sus assets predeterminados.
 
 ### Iniciar Sesion/Registrarse
 ![INICIARSESION/REGISTRASE](img/wireframe1.png) <br>
@@ -200,11 +200,11 @@ Para la creacion de los warframes se ha utilizado la extension drawio de google 
 ![CREARPUNTO](img/wireframe3.png) <br>
 ### Mapa Buscar Puntos 
 ![MAPABUSCARPUNTOS](img/wireframe4.png) <br>
-### Comunidad(movil)
+### Comunidad (Movil)
 ![COMUNIDAD](img/wireframe5_1.png) <br>
-### Comunidad(tablet)
+### Comunidad (Tablet)
 ![COMUNIDAD](img/wireframe5_2.png) <br>
-### Comunidad(portatil)
+### Comunidad (Portatil)
 ![COMUNIDAD](img/wireframe5_3.png) <br>
 
 <br>
