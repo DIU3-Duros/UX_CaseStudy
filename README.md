@@ -199,7 +199,7 @@ Para la creacion de los warframes se ha utilizado la extension drawio de google 
 ### Crear Punto Recogida
 ![CREARPUNTO](img/wireframe3.png) <br>
 ### Mapa Buscar Puntos 
-![CREARPUNTO](img/wireframe4.png) <br>
+![MAPABUSCARPUNTOS](img/wireframe4.png) <br>
 ### Comunidad(movil)
 ![COMUNIDAD](img/wireframe5_1.png) <br>
 ### Comunidad(tablet)
