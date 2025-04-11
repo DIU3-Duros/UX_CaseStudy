@@ -196,10 +196,16 @@ Para la creacion de los warframes se ha utilizado la extension drawio de google 
 ![INICIARSESION/REGISTRASE](img/wireframe1.png) <br>
 ### Home Page
 ![HOMEPAGE](img/wireframe2.png) <br>
-### Comunidad
-![COMUNIDAD](img/wireframe3.png) <br>
 ### Crear Punto Recogida
+![CREARPUNTO](img/wireframe3.png) <br>
+### Mapa Buscar Puntos 
 ![CREARPUNTO](img/wireframe4.png) <br>
+### Comunidad(movil)
+![COMUNIDAD](img/wireframe5_1.png) <br>
+### Comunidad(tablet)
+![COMUNIDAD](img/wireframe5_2.png) <br>
+### Comunidad(portatil)
+![COMUNIDAD](img/wireframe5_3.png) <br>
 
 <br>
 
