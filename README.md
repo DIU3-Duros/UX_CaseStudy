@@ -218,25 +218,77 @@ Para la creacion de los warframes se ha utilizado figma con varios de sus assets
 ![Método UX](img/moodboard.png)
 -----
 
->>> Diseño visual con una guía de estilos visual (moodboard) 
->>> Incluir Logotipo. Todos los recursos estarán subidos a la carpeta P3/
->>> Explique aqui la/s herramienta/s utilizada/s y el por qué de la resolución empleada. Reflexione ¿Se puede usar esta imagen como cabecera de Instagram, por ejemplo, o se necesitan otras?
+//foto del moodboard
 
 
 ### 3.b Landing Page
 ![Método UX](img/landing-page.png) 
 ----
 
->>> Plantear el Landing Page del producto. Aplica estilos definidos en el moodboard
+//foto de la landing page
 
 
 ### 3.c Guidelines
 ![Método UX](img/guidelines.png) 
 ----
+#  Paleta de colores
 
->>> Estudio de Guidelines y explicación de los Patrones IU a usar 
->>> Es decir, tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+Nuestra paleta está compuesta por cinco colores seleccionados estratégicamente para evocar naturaleza, frescura, sostenibilidad y accesibilidad:
 
+-  **Verde Alhambra 1925** – `#3CA05B`
+-  **Verde enfasis** – `#7CC88E`
+-  **Verde Claro** – `#ECECEC`
+-  **Blanco hueso** – `#E6E6E6`
+-  **Gris suave** – `#F5F4F1`
+-  **Granate pasion* - `#A03C4F`
+
+El verde principal se utilizará para botones, encabezados y acciones clave. El verde claro y gris claro aportan contraste y suavidad. El gris oscuro se usa para texto legible, y el blanco como fondo base.
+
+
+#  Iconografía
+
+Utilizamos iconos del plugin Simple Design Systen de figma por su sencillez y claridad visual. Son finos, reconocibles y universales, mejorando la navegación y la experiencia del usuario.
+
+
+#  Tipografías
+
+Elegimos una combinación tipográfica que transmite personalidad, claridad y coherencia ecológica:
+
+- **Cabecera (H1):** Yeseva One — Tamaño `62`  
+- **Subcabecera (H2):** Yeseva One — Tamaño `40`  
+- **Subcabecera (H3):** Libre Baskerville — Tamaño `18`  
+- **Cuerpo de texto:** Libre Baskerville — Tamaño `16`
+
+Esta mezcla serif da un toque editorial, limpio y cálido, alineado con los valores de Moda Re-.
+
+
+#   Patrón de diseño
+
+Nuestro patrón de diseño está centrado en transmitir sostenibilidad, cercanía y claridad. Usamos un enfoque minimalista, con amplios espacios en blanco, componentes reutilizables y jerarquía visual clara.  
+Los colores naturales se combinan con tipografías editoriales y una iconografía sencilla para lograr una experiencia accesible, estética y funcional.
+
+La estética es **moderna y suave**, orientada a la participación comunitaria y a promover acciones conscientes. Se prioriza la accesibilidad, la navegación intuitiva y la coherencia visual entre pantallas.
+
+#  Patrones de UI utilizados
+
+- **Header fijo con navegación clara:** logotipo a la izquierda, menú horizontal y botón destacado "Registrarse".
+- **Hero con eslogan + CTA:** imagen visual fuerte, texto motivador (*"Vístete de cambio"*) y llamada a la acción.
+- **Tarjetas modulares:** para puntos de recogida, comunidad y testimonios, reutilizables y responsivas.
+- **Mapa interactivo:** con pestañas por tipo de punto (tiendas, físicos, comunidad) y buscador de ciudades.
+- **Chat de comunidad:** dividido por ciudades, con mensajes en tiempo real y botón para crear punto o unirse.
+- **Diseño responsive:** versión móvil optimizada con menú hamburguesa, scroll limpio y navegación táctil fluida.
+
+
+#  Estilo de lenguaje
+
+Utilizamos un tono cercano, positivo y motivador. Cada frase está diseñada para **inspirar acción, generar confianza** y hacer sentir al usuario parte de un cambio mayor.
+
+- Se habla en **plural inclusivo**: “Transformamos la moda”, “Buscamos facilitar”.
+- Se evita el tecnicismo y se usan frases cortas y claras.
+- Los llamados a la acción son **empáticos y proactivos**: “Únete”, “Dona”, “Apoya a otros”.
+
+ **“Vístete de cambio.”**  
+ No es solo un eslogan, sino un mensaje que conecta con el propósito de Moda Re-.
 
 ### 3.d Mockup
 ![Método UX](img/mockup.png) 
