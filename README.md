@@ -240,7 +240,7 @@ Nuestra paleta está compuesta por cinco colores seleccionados estratégicamente
 -  **Verde Claro** – `#ECECEC`
 -  **Blanco hueso** – `#E6E6E6`
 -  **Gris suave** – `#F5F4F1`
--  **Granate pasion* - `#A03C4F`
+-  **Granate pasion** - `#A03C4F`
 
 El verde principal se utilizará para botones, encabezados y acciones clave. El verde claro y gris claro aportan contraste y suavidad. El gris oscuro se usa para texto legible, y el blanco como fondo base.
 
