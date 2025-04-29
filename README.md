@@ -13,7 +13,7 @@ Descripción: Nuestra propuestra trata una especie de foro para crear puntos de 
 
 Logotipo: 
 
->>> Si diseña un logotipo para su producto en la práctica 3 pongalo aqui, a un tamaño adecuado. Si diseña un slogan añadalo aquí
+//logo
 
 Miembros:
 DIU3-Duros
@@ -287,8 +287,7 @@ Utilizamos un tono cercano, positivo y motivador. Cada frase está diseñada par
 - Se evita el tecnicismo y se usan frases cortas y claras.
 - Los llamados a la acción son **empáticos y proactivos**: “Únete”, “Dona”, “Apoya a otros”.
 
- **“Vístete de cambio.”**  
- No es solo un eslogan, sino un mensaje que conecta con el propósito de Moda Re-.
+ Nestro eslogan: **“Vístete de cambio.”**  
 
 ### 3.d Mockup
 ![Método UX](img/mockup.png) 
