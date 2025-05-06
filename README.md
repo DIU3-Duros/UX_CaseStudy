@@ -231,36 +231,6 @@ Para la creacion de los warframes se ha utilizado figma con varios de sus assets
 ### 3.c Guidelines
 ![Método UX](img/guidelines.png) 
 ----
-#  Paleta de colores
-
-Nuestra paleta está compuesta por cinco colores seleccionados estratégicamente para evocar naturaleza, frescura, sostenibilidad y accesibilidad:
-
--  **Verde Alhambra 1925** – `#3CA05B`
--  **Verde enfasis** – `#7CC88E`
--  **Verde Claro** – `#ECECEC`
--  **Blanco hueso** – `#E6E6E6`
--  **Gris suave** – `#F5F4F1`
--  **Granate pasion** - `#A03C4F`
-
-El verde principal se utilizará para botones, encabezados y acciones clave. El verde claro y gris claro aportan contraste y suavidad. El gris oscuro se usa para texto legible, y el blanco como fondo base.
-
-
-#  Iconografía
-
-Utilizamos iconos del plugin Simple Design Systen de figma por su sencillez y claridad visual. Son finos, reconocibles y universales, mejorando la navegación y la experiencia del usuario.
-
-
-#  Tipografías
-
-Elegimos una combinación tipográfica que transmite personalidad, claridad y coherencia ecológica:
-
-- **Cabecera (H1):** Yeseva One — Tamaño `62`  
-- **Subcabecera (H2):** Yeseva One — Tamaño `40`  
-- **Subcabecera (H3):** Libre Baskerville — Tamaño `18`  
-- **Cuerpo de texto:** Libre Baskerville — Tamaño `16`
-
-Esta mezcla serif da un toque editorial, limpio y cálido, alineado con los valores de Moda Re-.
-
 
 #   Patrón de diseño
 
@@ -277,6 +247,20 @@ La estética es **moderna y suave**, orientada a la participación comunitaria y
 - **Mapa interactivo:** con pestañas por tipo de punto (tiendas, físicos, comunidad) y buscador de ciudades.
 - **Chat de comunidad:** dividido por ciudades, con mensajes en tiempo real y botón para crear punto o unirse.
 - **Diseño responsive:** versión móvil optimizada con menú hamburguesa, scroll limpio y navegación táctil fluida.
+
+#  Patrones de UI utilizados
+ Estos son los siguientes patrones que hemos utilizado:
+  - Onboarding: Pagina principal de la pagina(Home page) que muestra el contenido de la pagina 'Quienes somos'.
+  - Menu adaptado a movil: Barra situada en la parte superior debajo de la cabecera de la pagina. Permite acceder a las diferentes secciones de la pagina(Quienes somos, Colabora, Magazine...)
+  - Hero image + Carousel: Carousel para mostrar distintas imagenes que utilizamos en la pagina.
+  - Search: ***
+  - Wizards:
+  - Article List:
+  - Cards items: Las cartas representan los distintos puntos de recogida creado por la comunidad.
+  - Item details + actions: Muestra informacion como el origen, el destino, la fecha de la recogida y la gente que se ha apuntado. Hay dos tipo de acciones, una para ver informacion mas detallada sobre las localizaciones del origen y el destino y otra para apuntarse a ese evento si todavia queda hueco.
+  - Reserva: En nuestro caso seria indicar que participas en el evento, lo que te guarda un hueco para poder donar ropa en ese punto en especifico.
+  - Form Input: Formulario para crear un punto de recogida. Es necesario especificar la cantidad de personas que pueden participar, la fecha, lugar de recogida y el destino exacto de forma obligatoria y de forma opcional se podra añadir informacion adicional.
+  - About: pagina principal
 
 
 #  Estilo de lenguaje
