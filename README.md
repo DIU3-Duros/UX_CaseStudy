@@ -13,7 +13,7 @@ Descripción: Nuestra propuestra trata una especie de foro para crear puntos de 
 
 Logotipo: 
 
-//logo
+![Método UX](img/logo.png) 
 
 Miembros:
 DIU3-Duros
@@ -211,21 +211,22 @@ Para la creacion de los warframes se ha utilizado figma con varios de sus assets
 
 ## Paso 3. Mi UX-Case Study (diseño)
 
->>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
-
 
 ### 3.a Moodboard
 ![Método UX](img/moodboard.png)
 -----
 
-//foto del moodboard
+Hemos creado un moodboard que muestra nuestras ideas para rediseñar el estilo visual de la empresa Moda Re-.
+
+![Método UX](img/Moodboard.png) 
 
 
 ### 3.b Landing Page
 ![Método UX](img/landing-page.png) 
 ----
+Nuestra landing page ofrece información sobre el proyecto, todo con un diseño claro y visual para que atraer a el publico que no se vayan rapido, sino que se interesen.
 
-//foto de la landing page
+![Método UX](img/landingpage.png) 
 
 
 ### 3.c Guidelines
@@ -241,27 +242,25 @@ La estética es **moderna y suave**, orientada a la participación comunitaria y
 
 #  Patrones de UI utilizados
 
-- **Header fijo con navegación clara:** logotipo a la izquierda, menú horizontal y botón destacado "Registrarse".
+- **Header fijo con navegación clara:** logotipo a la izquierda y segun si estas registrado o no te saldra -> tu avatar o dos botones para iniciar sesion / registarte.
 - **Hero con eslogan + CTA:** imagen visual fuerte, texto motivador (*"Vístete de cambio"*) y llamada a la acción.
 - **Tarjetas modulares:** para puntos de recogida, comunidad y testimonios, reutilizables y responsivas.
-- **Mapa interactivo:** con pestañas por tipo de punto (tiendas, físicos, comunidad) y buscador de ciudades.
+- **Mapa interactivo:** con pestañas por tipo de punto (tiendas, físicos...) y buscador de ciudades.
 - **Chat de comunidad:** dividido por ciudades, con mensajes en tiempo real y botón para crear punto o unirse.
 - **Diseño responsive:** versión móvil optimizada con menú hamburguesa, scroll limpio y navegación táctil fluida.
 
 #  Patrones de UI utilizados
  Estos son los siguientes patrones que hemos utilizado:
   - Onboarding: Pagina principal de la pagina(Home page) que muestra el contenido de la pagina 'Quienes somos'.
-  - Menu adaptado a movil: Barra situada en la parte superior debajo de la cabecera de la pagina. Permite acceder a las diferentes secciones de la pagina(Quienes somos, Colabora, Magazine...)
+  - Menu adaptado a movil: Barra situada en la parte inferior de la pagina para que sea mas accesible para movil. Permite acceder a las diferentes secciones de la pagina(Quienes somos, Colabora, Magazine...)
   - Hero image + Carousel: Carousel para mostrar distintas imagenes que utilizamos en la pagina.
-  - Search: ***
-  - Wizards:
-  - Article List:
+  - Wizards: El proceso de registro de nuevos usuarios está dividido en dos pantallas secuenciales: una para nombre y usuario, y otra para email y contraseña.
+  - Article List: Listado vertical de artículos en la sección Magazine, donde se muestran eventos y noticias con miniaturas y titulos.
   - Cards items: Las cartas representan los distintos puntos de recogida creado por la comunidad.
   - Item details + actions: Muestra informacion como el origen, el destino, la fecha de la recogida y la gente que se ha apuntado. Hay dos tipo de acciones, una para ver informacion mas detallada sobre las localizaciones del origen y el destino y otra para apuntarse a ese evento si todavia queda hueco.
   - Reserva: En nuestro caso seria indicar que participas en el evento, lo que te guarda un hueco para poder donar ropa en ese punto en especifico.
   - Form Input: Formulario para crear un punto de recogida. Es necesario especificar la cantidad de personas que pueden participar, la fecha, lugar de recogida y el destino exacto de forma obligatoria y de forma opcional se podra añadir informacion adicional.
-  - About: pagina principal
-
+  - About: La sección Quiénes somos funciona también como una página “About” con contenido detallado sobre la misión, el impacto y el equipo detrás del proyecto.
 
 #  Estilo de lenguaje
 
@@ -277,7 +276,7 @@ Utilizamos un tono cercano, positivo y motivador. Cada frase está diseñada par
 ![Método UX](img/mockup.png) 
 ----
 
->>> Consiste en tener un Layout en acción. Un Mockup es un prototipo HTML que permite simular tareas con estilo de IU seleccionado. Muy útil para compartir con stakeholders
+
 
 
 ### 3.e ¿My UX-Case Study?
@@ -286,8 +285,6 @@ Utilizamos un tono cercano, positivo y motivador. Cada frase está diseñada par
 
 >>> Publicar my Case Study en Github... Es el momento de dejar este documento para que sea evaluado y calificado como parte de la práctica
 >>> Documente bien la cabecera y asegurese que ha resumido los pasos realizados para el diseño de su producto
-
-<br>
 
 ## Paso 4. Pruebas de Evaluación 
 
