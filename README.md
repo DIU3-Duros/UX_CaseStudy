@@ -272,19 +272,23 @@ Utilizamos un tono cercano, positivo y motivador. Cada frase está diseñada par
 
  Nestro eslogan: **“Vístete de cambio.”**  
 
+
 ### 3.d Mockup
 ![Método UX](img/mockup.png) 
 ----
 
-
+nose que hay que poner supongo que como el de jaime todo nuestras fotos de la web juntas
 
 
 ### 3.e ¿My UX-Case Study?
 ![Método UX](img/caseStudy.png) 
 -----
 
+enlace a figma supongo rollo como asi -> Enlace: [Aqui]([P1/Usability-review-Moda-Re.xlsx](https://www.figma.com/proto/ZWVUqUmODXvOtLuPGbMfHx/DIU_Toolkit_Framework--beta-2025---Copy-?node-id=5523-3249&p=f&t=Av2wtH8wjZOJSmLY-1&scaling=min-zoom&content-scaling=fixed&page-id=18%3A14661)).
+
 >>> Publicar my Case Study en Github... Es el momento de dejar este documento para que sea evaluado y calificado como parte de la práctica
 >>> Documente bien la cabecera y asegurese que ha resumido los pasos realizados para el diseño de su producto
+
 
 ## Paso 4. Pruebas de Evaluación 
 
