@@ -3,7 +3,6 @@
 
 
 ### 3.a Moodboard
-![Método UX](img/moodboard.png)
 -----
 
 Hemos creado un moodboard que muestra nuestras ideas para rediseñar el estilo visual de la empresa Moda Re-.
@@ -12,7 +11,6 @@ Hemos creado un moodboard que muestra nuestras ideas para rediseñar el estilo v
 
 
 ### 3.b Landing Page
-![Método UX](img/landing-page.png) 
 ----
 Nuestra landing page ofrece información sobre el proyecto, todo con un diseño claro y visual para que atraer a el publico que no se vayan rapido, sino que se interesen.
 
@@ -20,7 +18,6 @@ Nuestra landing page ofrece información sobre el proyecto, todo con un diseño 
 
 
 ### 3.c Guidelines
-![Método UX](img/guidelines.png) 
 ----
 
 #   Patrón de diseño
@@ -63,13 +60,11 @@ Utilizamos un tono cercano, positivo y motivador. Cada frase está diseñada par
  Nestro eslogan: **“Vístete de cambio.”**  
 
 ### 3.d Mockup
-![Método UX](img/mockup.png) 
 ----
 
 nose que hay que poner supongo que como el de jaime todo nuestras fotos de la web juntas o el video o ns
 
 ### 3.e ¿My UX-Case Study?
-![Método UX](img/caseStudy.png) 
 -----
 ns si el video va aqui tambien
 enlace a figma supongo rollo como asi ->Prototipo en Figma: [Ver aquí](https://www.figma.com/proto/ZWVUqUmODXvOtLuPGbMfHx/DIU_Toolkit_Framework--beta-2025---Copy-?node-id=5523-3249&p=f&t=Av2wtH8wjZOJSmLY-1&scaling=min-zoom&content-scaling=fixed&page-id=18%3A14661)
