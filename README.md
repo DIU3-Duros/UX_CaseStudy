@@ -276,25 +276,37 @@ Utilizamos un tono cercano, positivo y motivador. Cada frase está diseñada par
  Este sería nuestro diseño:
 
 ![Método UX](img/diseño1.png) 
- ![Método UX](img/diseño2.png) 
- ![Método UX](img/diseño3.png) 
+![Método UX](img/diseño2.png) 
+![Método UX](img/diseño3.png) 
 
 ### 3.d Mockup
 ![Método UX](img/mockup.png) 
 ----
 
 [Layout Figma](https://www.figma.com/proto/ZWVUqUmODXvOtLuPGbMfHx/DIU_Toolkit_Framework--beta-2025---Copy-?node-id=5523-3249&p=f&t=Av2wtH8wjZOJSmLY-1&scaling=min-zoom&content-scaling=fixed&page-id=18%3A14661)
-<br>Video demostracion:
+<br>Video demostracion:<br><br>
 ![Método UX](img/video.gif) 
 
 
 ### 3.e ¿My UX-Case Study?
 ![Método UX](img/caseStudy.png) 
------
 
->>> Publicar my Case Study en Github... Es el momento de dejar este documento para que sea evaluado y calificado como parte de la práctica
->>> Documente bien la cabecera y asegurese que ha resumido los pasos realizados para el diseño de su producto
-
+![INICIARSESION/REGISTRASE](img/wireframe1.png) <br>
+![HOMEPAGE](img/wireframe2.png) <br>
+![CREARPUNTO](img/wireframe3.png) <br>
+![MAPABUSCARPUNTOS](img/wireframe4.png) <br>
+![COMUNIDAD](img/wireframe5_1.png) <br>
+![COMUNIDAD](img/wireframe5_2.png) <br>
+![COMUNIDAD](img/wireframe5_3.png) <br>
+![sitemap](img/sitemap.png) 
+![INICIOSESION](img/inicio.drawio.png) <br>
+![CREARPUNTO](img/diagrama2.png) <br>
+![PARTICIPARDONACION](img/diagrama3.png) <br>
+![Método UX](img/Moodboard.png) 
+![Método UX](img/landingpage.png) 
+![Método UX](img/diseño1.png) 
+![Método UX](img/diseño2.png) 
+![Método UX](img/diseño3.png) 
 
 ## Paso 4. Pruebas de Evaluación 
 
