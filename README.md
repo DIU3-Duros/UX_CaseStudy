@@ -261,6 +261,7 @@ La estética es **moderna y suave**, orientada a la participación comunitaria y
   - Reserva: En nuestro caso seria indicar que participas en el evento, lo que te guarda un hueco para poder donar ropa en ese punto en especifico.
   - Form Input: Formulario para crear un punto de recogida. Es necesario especificar la cantidad de personas que pueden participar, la fecha, lugar de recogida y el destino exacto de forma obligatoria y de forma opcional se podra añadir informacion adicional.
   - About: La sección Quiénes somos funciona también como una página “About” con contenido detallado sobre la misión, el impacto y el equipo detrás del proyecto.
+Como patron extra hemos añadido un calendario para poder establecer la fecha en la que se va a realizar laa recogida.
 
 #  Estilo de lenguaje
 
@@ -270,21 +271,26 @@ Utilizamos un tono cercano, positivo y motivador. Cada frase está diseñada par
 - Se evita el tecnicismo y se usan frases cortas y claras.
 - Los llamados a la acción son **empáticos y proactivos**: “Únete”, “Dona”, “Apoya a otros”.
 
- Nestro eslogan: **“Vístete de cambio.”**  
+ Nestro eslogan: **“Vístete de cambio.”** 
+
+ Este sería nuestro diseño:
+
+![Método UX](img/diseño1.png) 
+ ![Método UX](img/diseño2.png) 
+ ![Método UX](img/diseño3.png) 
 
 ### 3.d Mockup
 ![Método UX](img/mockup.png) 
 ----
 
-nose que hay que poner supongo que como el de jaime todo nuestras fotos de la web juntas o el video o ns
+[Layout Figma](https://www.figma.com/proto/ZWVUqUmODXvOtLuPGbMfHx/DIU_Toolkit_Framework--beta-2025---Copy-?node-id=5523-3249&p=f&t=Av2wtH8wjZOJSmLY-1&scaling=min-zoom&content-scaling=fixed&page-id=18%3A14661)
+<br>Video demostracion:
+![Método UX](img/video.gif) 
 
 
 ### 3.e ¿My UX-Case Study?
 ![Método UX](img/caseStudy.png) 
 -----
-ns si el video va aqui tambien
-enlace a figma supongo rollo como asi ->Prototipo en Figma: [Ver aquí](https://www.figma.com/proto/ZWVUqUmODXvOtLuPGbMfHx/DIU_Toolkit_Framework--beta-2025---Copy-?node-id=5523-3249&p=f&t=Av2wtH8wjZOJSmLY-1&scaling=min-zoom&content-scaling=fixed&page-id=18%3A14661)
-Que por ese enlace es el que entraran los compañeros y veran nuestra proyecto
 
 >>> Publicar my Case Study en Github... Es el momento de dejar este documento para que sea evaluado y calificado como parte de la práctica
 >>> Documente bien la cabecera y asegurese que ha resumido los pasos realizados para el diseño de su producto
