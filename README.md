@@ -284,13 +284,14 @@ Utilizamos un tono cercano, positivo y motivador. Cada frase está diseñada par
 ----
 
 [Layout Figma](https://www.figma.com/proto/ZWVUqUmODXvOtLuPGbMfHx/DIU_Toolkit_Framework--beta-2025---Copy-?node-id=5523-3249&p=f&t=Av2wtH8wjZOJSmLY-1&scaling=min-zoom&content-scaling=fixed&page-id=18%3A14661)
-<br>Video demostracion:<br><br>
+<br><br>Video demostracion:<br><br>
 ![Método UX](img/video.gif) 
 
 
 ### 3.e ¿My UX-Case Study?
 ![Método UX](img/caseStudy.png) 
 
+Las siguientes imágenes resumen de manera breve nuestro UX-Case Study publicado en este mismo Readme de Github: <br><br>
 ![INICIARSESION/REGISTRASE](img/wireframe1.png) <br>
 ![HOMEPAGE](img/wireframe2.png) <br>
 ![CREARPUNTO](img/wireframe3.png) <br>
