@@ -312,20 +312,18 @@ Las siguientes imágenes resumen de manera breve nuestro UX-Case Study publicado
 ## Paso 4. Pruebas de Evaluación 
 
 ### 4.a Reclutamiento de usuarios 
-![Método UX](img/usability-testing.png)
 -----
 
->>> Breve descripción del caso asignado (llamado Caso-B) con enlace al repositorio Github
->>> Tabla y asignación de personas ficticias (o reales) a las pruebas. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Mínimo 4 usuarios: asigne 2 al Caso A y 2 al caso B.
+Nos ha tocado el grupo DIU2.tertulianos que correspondera con la prueba B y nuestro proyecto con el A
 
-
+Enlace a u repositorio: https://github.com/DIU2tertulianos
 
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | Caso
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
+| Oliver  | H / 21   | Estudiante Derecho | Baja       | Introvertido | móvil       | A 
+| Maria  | M / 27   | Trabaja en Mercadona  | Media       | Extrovertida       | móvil        | A 
+| Gael  | H / 21   | Estudia informatica     | Alta        | Timido    | móvil      | B 
+| Encarnacion  | M / 54   | Trabaja en el ayuntamiento  | Baja       | Racional     | móvil        | B 
 
 
 ### 4.b Diseño de las pruebas 
