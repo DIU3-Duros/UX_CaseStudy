@@ -292,17 +292,7 @@ Utilizamos un tono cercano, positivo y motivador. Cada frase está diseñada par
 ![Método UX](img/caseStudy.png) 
 
 Las siguientes imágenes resumen de manera breve nuestro UX-Case Study publicado en este mismo Readme de Github: <br><br>
-![INICIARSESION/REGISTRASE](img/wireframe1.png) <br>
-![HOMEPAGE](img/wireframe2.png) <br>
-![CREARPUNTO](img/wireframe3.png) <br>
-![MAPABUSCARPUNTOS](img/wireframe4.png) <br>
-![COMUNIDAD](img/wireframe5_1.png) <br>
-![COMUNIDAD](img/wireframe5_2.png) <br>
-![COMUNIDAD](img/wireframe5_3.png) <br>
 ![sitemap](img/sitemap.png) 
-![INICIOSESION](img/inicio.drawio.png) <br>
-![CREARPUNTO](img/diagrama2.png) <br>
-![PARTICIPARDONACION](img/diagrama3.png) <br>
 ![Método UX](img/Moodboard.png) 
 ![Método UX](img/landingpage.png) 
 ![Método UX](img/diseño1.png) 
